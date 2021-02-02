@@ -97,7 +97,7 @@ public class KNN {
     /**
      * @param args the command line arguments
      */
-    public static void main( ) throws FileNotFoundException {
+    public static void main(String[] args) throws FileNotFoundException {
                 Leitor L = new Leitor();                
                 //array de arraylist, banco de dados
                 //validação cruzada de 5 partições
